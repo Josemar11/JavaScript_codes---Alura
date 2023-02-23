@@ -1,0 +1,1 @@
+Obtive conhecimento sobre os arrays, um tipo de estrutura de dados muito importante. Trabalhei seu conceito principal assim como sua utilização, com métodos nativos do JavaScript como push() e o splice(); pratiquei o conceito de laços de repetição, utilizando for e métodos como map() e forEach(), além de aprender mais sobre funções e métodos com chamadas funções callback.
